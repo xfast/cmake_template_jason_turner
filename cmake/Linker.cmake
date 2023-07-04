@@ -1,4 +1,4 @@
-macro(myproject_configure_linker project_name)
+macro(cmake_template_jason_turner_configure_linker project_name)
   include(CheckCXXCompilerFlag)
 
   set(USER_LINKER_OPTION
